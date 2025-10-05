@@ -9,7 +9,7 @@ This tutorial outlines the prerequisites, installation and usage of the virtual 
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- 
+- Public Internet
 
 <h2>Operating Systems Used </h2>
 
