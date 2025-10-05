@@ -3,7 +3,7 @@
 </p>
 
 <h1>VPN Setup and Usage with Proton VPN</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites, installation and usage of the virtual private network Proton VPN.<br />
 
 <h2>Environments and Technologies Used</h2>
 
