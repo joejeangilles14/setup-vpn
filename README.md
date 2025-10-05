@@ -18,8 +18,6 @@ This tutorial outlines the prerequisites, installation and usage of the virtual 
 <h2>List of Prerequisites</h2>
 
 - Azure Virtual Machine Windows 10, 4 vCPUs
-- Website: whatismyipaddress.com
-- Proton VPN within VM
 
 <h2>Installation Steps</h2>
 
