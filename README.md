@@ -57,7 +57,7 @@ Review to confirm and click create.
 <img src="https://github.com/user-attachments/assets/7ae548ea-b003-4543-bcd2-e3826799d48f" />
 </p>
 <p>
-After deployment, return to Virtual Machines, copy and paste public IP address to Remote Desktop and login.
+After deployment, return to Virtual Machines, copy and paste public IP address to Microsoft Remote Desktop and login.
 </p>
 
 <p>
